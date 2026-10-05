@@ -328,7 +328,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 For questions, suggestions, or support:
-- **Email**: [your-email@domain.com]
+- **Email**: [brucecobbolde@gmail.com]
 - **GitHub Issues**: [Repository Issues Page]
 - **Documentation**: This README and in-app help
 
